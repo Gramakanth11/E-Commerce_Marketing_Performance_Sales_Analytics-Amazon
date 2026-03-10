@@ -1,4 +1,4 @@
-# E-Commerce-Marketing-Performance-Sales-Analytics---Amazon
+# E-Commerce Marketing Performance Sales Analytics-Amazon
 
 ### Project Overview
 
